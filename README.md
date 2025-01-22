@@ -10,9 +10,11 @@ Estou em busca de conhecimento para me tornar um grande desenvolvedor FullStack,
 
 ---
 <p>
-  <img align="left" height="200px" alt="Shyrriro GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shyrriro&show_icons=true&theme=radical"/>
-  <img align="left" height="200px" alt="Shyrriro Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyrriro&theme=radical&layout=compact&custom_title=Tecnologias"/>
+  <img align="left" height="190px" alt="Shyrriro GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shyrriro&show_icons=true&theme=radical"/>
+  <img align="left" height="190px" alt="Shyrriro Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyrriro&theme=radical&layout=compact&custom_title=Tecnologias"/>
 </p>
+
+<br/><br/><br/><br/><br/><br/><br/>
 
 ## Tecnologias que uso em meu dia a dia.
 
