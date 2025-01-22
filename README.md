@@ -1,11 +1,18 @@
+# Alexandre Amorim de Jesus
+
+Olá, me chamo Alexandre Amorim, iniciei meus estudos a pouco tempo mas eu sempre estive conectado com este mundo da tecnologia, por isto decidir trilhar este caminho que sou apaixonado. 
+Estou em busca de conhecimento para me tornar um grande desenvolvedor FullStack, espero em breve postar meus projetos aqui no GitHub e poder contribuir com a comunidade.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandreamorimdejesus/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shy_hero7)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shyrriro)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/shyrriro/gallery/all)
 
-![Shyrriro GitHub stats](https://github-readme-stats.vercel.app/api?username=shyrriro&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyrriro&layout=compact)
+---
+<p>
+  <img height="200px" alt="Shyrriro GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shyrriro&show_icons=true&theme=radical"/>
+  <img height="200px" alt="Shyrriro Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyrriro&theme=radical&layout=compact&custom_title=Tecnologias"/>
+</p>
 
 ## Tecnologias que uso em meu dia a dia.
 
@@ -21,8 +28,6 @@
   <img align="center" alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-<br/>Olá, me chamo Alexandre Amorim, iniciei meus estudos a pouco tempo mas eu sempre estive conectado com este mundo da tecnologia, por isto decidir trilhar este caminho que sou apaixonado. 
-Estou em busca de conhecimento para me tornar um grande desenvolvedor FullStack, espero em breve postar meus projetos aqui no GitHub e poder contribuir com a comunidade.
 
 <!--
 **Shyrriro/shyrriro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
