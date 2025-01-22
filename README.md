@@ -4,7 +4,7 @@ Olá, me chamo Alexandre Amorim, iniciei meus estudos a pouco tempo mas eu sempr
 Estou em busca de conhecimento para me tornar um grande desenvolvedor FullStack, espero em breve postar meus projetos aqui no GitHub e poder contribuir com a comunidade.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandreamorimdejesus/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shy_hero7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre_amorim_)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shyrriro)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/shyrriro/gallery/all)
 
